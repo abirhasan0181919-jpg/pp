@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/Billing.tsx","./src/components/Login.tsx","./src/components/Receipt.tsx","./src/components/TodayBills.tsx","./src/lib/bn.ts","./src/lib/invoice.ts","./src/lib/session.ts","./src/lib/supabase.ts","./src/lib/types.ts","./vite.config.ts"],"version":"5.9.3"}
